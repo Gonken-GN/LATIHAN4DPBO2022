@@ -6,4 +6,5 @@ Pada project ini terdapat 6 class, yaitu Person, Job, Driver, Vehicle, Ship, dan
 <img src="https://github.com/Gonken-GN/LATIHAN4DPBO2022/blob/main/Desain.png" alt="Desain Latihan 4"/>
 </p>
 ### Hasil Eksekusi Program  
+- ScreenShots 1
 ![ScreenShots 1](https://github.com/Gonken-GN/LATIHAN4DPBO2022/blob/main/ScreenShots/Python.png)
