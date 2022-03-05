@@ -8,6 +8,9 @@ Pada project ini terdapat 6 class, yaitu Person, Job, Driver, Vehicle, Ship, dan
 
 
 ### Hasil Eksekusi Program  
-- #### Driver
+- ### Driver
 ![ScreenShots 1](https://github.com/Gonken-GN/LATIHAN4DPBO2022/blob/main/ScreenShots/Driver.png)
-- #### 
+- ### Airplane 
+![ScreenShots 2](https://github.com/Gonken-GN/LATIHAN4DPBO2022/blob/main/ScreenShots/Airplane.png)
+- ### Ship
+![ScreenShots 2](https://github.com/Gonken-GN/LATIHAN4DPBO2022/blob/main/ScreenShots/Ship.png)
